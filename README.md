@@ -1,5 +1,5 @@
 # Hancheng_Code_Repo
-**List of relevant certificates: https://github.com/donghancheng85/Hancheng_Code_Repo/tree/main/_Training_Certificates**
+**List of relevant certificates:** <br> https://github.com/donghancheng85/Hancheng_Code_Repo/tree/main/_Training_Certificates
 
 Sandbox for rapid prototyping. Developing code to demonstrate algorithms, data structures, design patterns and concurrency.
 
