@@ -9,9 +9,11 @@ The CMake template that I am using for my development work can be found at this 
 
 C++ LinkedIn articles written:
 
-The Ins and Outs of C++ Template Metaprogramming: From Basic to Advanced, https://www.linkedin.com/pulse/things-learn-c-template-metaprogramming-from-basic-advanced-dong/
+The Ins and Outs of C++ Template Metaprogramming: From Basic to Advanced. 
+https://www.linkedin.com/pulse/things-learn-c-template-metaprogramming-from-basic-advanced-dong/
 
-C++ Static Polymorphism Using CRTP: A Step-by-Step Tutorial, https://www.linkedin.com/pulse/c-static-polymorphism-using-crtp-step-by-step-tutorial-hancheng-dong/
+C++ Static Polymorphism Using CRTP: A Step-by-Step Tutorial. 
+https://www.linkedin.com/pulse/c-static-polymorphism-using-crtp-step-by-step-tutorial-hancheng-dong/
 
 
  
