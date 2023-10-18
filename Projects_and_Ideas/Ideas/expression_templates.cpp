@@ -223,4 +223,6 @@ int main()
 
     result1 = x1-y1 + x1/y1;
     std::cout << result1 << std::endl;
+	
+	return 0;
 }
