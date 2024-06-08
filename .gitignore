@@ -1,2 +1,15 @@
 # Ignore target directories in any subdirectory
 **/target/
+
+# Ignore build artifacts
+*.rs.bk
+
+# Ignore dependency directories
+**/Cargo.lock
+**/Cargo.toml
+
+# Ignore the output of rustfmt
+**/.rustfmt.toml
+
+# Ignore the output of clippy
+**/clippy.toml
